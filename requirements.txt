@@ -1,0 +1,7 @@
+urllib3>=1.25.3
+certifi>=2020.4.5.1
+python-dateutil>=2.8.2
+pytest>=6.0.0
+pytest-cov>=2.10.0
+setuptools>=45.0.0
+wheel>=0.37.0 
