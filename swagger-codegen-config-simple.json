@@ -1,6 +1,6 @@
 {
   "packageName": "signer_client",
-  "packageVersion": "1.0.0",
+  "packageVersion": "0.9.0",
   "packageUrl": "https://github.com/lacunasoftware/signer-python-client",
   "packageDescription": "Python client library for the Signer API",
   "packageAuthor": "Signer",
