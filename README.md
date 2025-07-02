@@ -1,15 +1,6 @@
 # Signer Python Client
 
-A Python client library for the [Signer API](https://signer-lac.azurewebsites.net/swagger/index.html), providing easy access to digital signature functionality.
-
-## Features
-
-- Complete API coverage for document management and digital signatures
-- Type-safe Python classes generated from OpenAPI specification
-- Comprehensive error handling
-- Support for webhooks and real-time notifications
-- Easy authentication with API keys
-- High-level SignerClient wrapper for simplified operations
+A Python client library for the [Signer API](https://dropsigner.com/swagger/index.html)
 
 ## Installation
 
