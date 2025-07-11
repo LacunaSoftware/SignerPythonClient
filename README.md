@@ -6,7 +6,7 @@ A Python client library for the [Signer API](https://dropsigner.com/swagger/inde
 
 ### From PyPI (when published)
 ```bash
-pip install signer-client
+pip install signer-python-client
 ```
 
 ### From source
@@ -210,4 +210,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support and questions:
 - API Documentation: https://signer-lac.azurewebsites.net/swagger/index.html
-- Issues: https://github.com/your-org/signer-python-client/issues 
+- Issues: https://github.com/LacunaSoftware/SignerPythonClient/issues 
